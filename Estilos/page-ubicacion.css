@@ -1,0 +1,16 @@
+
+
+.page-ubicacion{
+    width: inherit;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    background-color: #081420; 
+    display: flex;   
+    flex-direction: column;
+    align-items: center;
+}
+.page-ubicacion h2{
+    margin-top: 60px;
+    color: white;
+    margin-bottom: 0;
+}

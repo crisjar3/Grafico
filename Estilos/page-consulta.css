@@ -1,0 +1,26 @@
+
+.page-consultas{
+    width: inherit;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    background-color: white;
+    display: flex;
+}
+
+.page-consultas h2{
+    margin-top: 0;
+}
+
+.page-consultas div:nth-of-type(1){
+    background-image: url(/recursos/Presion.png);
+    width: 40vw;
+    height: 50vh;        
+}
+
+.page-consultas div:nth-of-type(2){
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 45vw;
+}

@@ -1,0 +1,39 @@
+
+.page-contactanos{
+    width: inherit;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    background-color: #858E99; 
+    text-align: center;
+    /* display: flex;   
+    flex-direction: column;
+    align-items: center; */
+}
+
+.page-contactanos input:nth-of-type(1),
+.page-contactanos input:nth-of-type(2){
+    width: 40vw;
+    margin-right: 5vw;
+    height: 25px;    
+    background-color: #565C66;
+    color: white;
+}
+
+.page-contactanos h2, button{    
+    width: 90px;
+    height: 30px;
+}
+.page-contactanos h2{
+    margin-left: 20vw;
+}
+.page-contactanos input:nth-of-type(3){
+    width: 40vw;
+    height: 70px;
+    margin-right: 5vw;
+    background-color:  #565C66;
+    color: white;
+}
+
+button{
+    color: #565C66;
+}
